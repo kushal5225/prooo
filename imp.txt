@@ -1,1 +1,3 @@
-In this folder I am writing about the important document 
+In this folder I am writing about the important document.
+Now I have corrected the file. It is ready for merge.
+Thank you 
